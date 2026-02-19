@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darthkoppa91
-- 👀 I’m interested in programing and technology {}
-- 🌱 I’m currently learning Python, JS, Html, CSS,C#, SQL and other Dev Languages so I can start projects on my own
+- 👀 I’m interested in Coding, AI, Agents and tech genneraly. {}
+- 🌱 I’m currently using Python,JS, HTML, CSS,REACT, SQL and other Dev Languages so I can start projects on my own.
 - 💞️ I’m looking to collaborate on any task, project or interesting topic that other developers are ready to share with me and guide me.
 - 📫 How to reach me ( alekskopcic@hotmail.com, on mimo app Darth_Koppa91)
 
